@@ -1,0 +1,23 @@
+@font-face{
+    font-family: "font";
+    src: url("font/OldStandardTT-Bold.ttf");
+}
+h2{
+    color: #000;
+    font-family: "iowan old style";
+    margin-top: 19px;
+    margin-left: 2px;
+}
+.paragrafi{
+    color: #000;
+    font-family: "font";
+    margin-top: 4px;
+    margin-left: 9px;
+
+}
+.paragrafi1{
+    color: #000;
+    font-family: "font";
+    text-align: justify;
+    margin-left: 10px;
+}
